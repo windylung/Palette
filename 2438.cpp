@@ -15,11 +15,6 @@ void printSpaces(int numOfSpace) {
 		cout << " ";
 }
 
-void printNumberLessThanX(int number, int x) {
-	if (number < x)
-		cout << number;
-}
-
 
 void main() {
 
