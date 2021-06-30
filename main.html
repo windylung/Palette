@@ -1,33 +1,73 @@
+
 <!DOCTYPE html>
 <html lang = "ko">
-    <head>
-    <meta charset = "utf-8">
-        <title>
-            Palette
-        </title>
-        <style>
-            @font-face {
-                font-family:'wemakeprice';
-                src : url("Wemakeprice-Regular.otf");
-            }
-            
+  <head>
+  <meta charset = "utf-8">
+      <title>
+          Palette
+      </title>
+      <style>
+          @font-face {
+              font-family:'wemakeprice';
+              src : url("Wemakeprice-Regular.otf");
+          }
+          body{
+          background-image:url('background.png');
+          background-size:cover;
+}
+.search1{
+  position : absolute;
+  top : 60%;
+  left : 8%;
+}
+.search2{
+  position : absolute;
+  top : 40%;
+  left : 8%;
+}
+.mytext{
+  borde
+  background: none;
+  outline: none;
+  color : black;
 
-    
-        </style>
-        
+}
 
-    </head>
-    <body>
-        <p style ="font-family:wemakeprice;">
-            원하는 아티스트를 검색하세요
-            
-        </p>
-        <img src = "./serch.png" alt= "검색창" width="300px" >
-        
-        <p style ="font-family:wemakeprice;">
-            원하는 아티스트를 선택하세요
-            <img src = "./background.png" alt= "background" width="1250px" >
-        </p>
-        
+      </style>
+  </head>
 
-    </body>
+  
+  <body>
+<!첫번쨰 아티스트 입력창 // 검색창 뒤에 배경을 물감 형태로 넣으려고 가로세로 100px로 맞춤>
+    <div class="search1" width="100px" height="100px">
+
+     <input class = "mytext" type="text" placeholder="검색">
+     <form class ="button1">
+       <button>검색</button>
+     </form>
+</div>
+
+
+<!두번째 아티스트 입력>
+<div class="search2" width="100px" height="100px">
+ <input class = "mytext" type="text" placeholder="검색">
+ <form class ="button2">
+   <button>search</button>
+</div>
+
+
+      <p style ="font-family:wemakeprice;">
+          원하는 아티스트를 검색하세요
+
+      </p>
+      <img src = "./serch.png" alt= "검색창" width="70px" height="70px"
+      style="">
+
+      <p style ="font-family:wemakeprice;">
+          원하는 아티스트를 선택하세요
+
+      </p>
+
+
+  </body>
+</html>
