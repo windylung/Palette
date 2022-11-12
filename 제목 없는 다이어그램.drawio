@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T21:14:56.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="yNKYz_EpPeQUNP3C9R0z" type="github"><diagram id="lx-rnQh10B7YDGxcXxoP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-12T21:29:16.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kbyvQX5BvXI9kXrj9Kyh" version="20.5.3" type="github">
+  <diagram id="lx-rnQh10B7YDGxcXxoP" name="페이지-1">
+    <mxGraphModel dx="813" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tMGGYB5LBeARhkWClXSp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-1" target="tMGGYB5LBeARhkWClXSp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-1" value="&lt;b&gt;&lt;font style=&quot;&quot; color=&quot;#fffafa&quot;&gt;시작 앱 실행&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-2" target="tMGGYB5LBeARhkWClXSp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-2" target="tMGGYB5LBeARhkWClXSp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="180" />
+              <mxPoint x="60" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-2" value="&lt;font color=&quot;#000000&quot;&gt;경쟁이 진행중인가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FFFAFA;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-5" target="tMGGYB5LBeARhkWClXSp-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-5" value="현재 1,2,3등&lt;br&gt;학교 출력" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-8" value="사용자 입력 기다리기" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
