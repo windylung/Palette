@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T21:29:16.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kbyvQX5BvXI9kXrj9Kyh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T21:42:32.275Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="f9LCM7ln_TmoALyEKBMd" version="20.5.3" type="github">
   <diagram id="lx-rnQh10B7YDGxcXxoP" name="페이지-1">
-    <mxGraphModel dx="813" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,30 +10,70 @@
         <mxCell id="tMGGYB5LBeARhkWClXSp-1" value="&lt;b&gt;&lt;font style=&quot;&quot; color=&quot;#fffafa&quot;&gt;시작 앱 실행&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="80" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tMGGYB5LBeARhkWClXSp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-2" target="tMGGYB5LBeARhkWClXSp-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tMGGYB5LBeARhkWClXSp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-2" target="tMGGYB5LBeARhkWClXSp-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="60" y="180" />
-              <mxPoint x="60" y="360" />
+              <mxPoint x="60" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-2" target="tMGGYB5LBeARhkWClXSp-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tMGGYB5LBeARhkWClXSp-2" value="&lt;font color=&quot;#000000&quot;&gt;경쟁이 진행중인가?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FFFAFA;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="70" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tMGGYB5LBeARhkWClXSp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-5" target="tMGGYB5LBeARhkWClXSp-8">
+        <mxCell id="tMGGYB5LBeARhkWClXSp-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tMGGYB5LBeARhkWClXSp-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140.09090909090878" y="300" as="sourcePoint" />
             <mxPoint x="140" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tMGGYB5LBeARhkWClXSp-5" value="현재 1,2,3등&lt;br&gt;학교 출력" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="tMGGYB5LBeARhkWClXSp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-8" target="tMGGYB5LBeARhkWClXSp-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tMGGYB5LBeARhkWClXSp-8" value="사용자 입력 기다리기" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-16" value="현재 랭킹의&lt;br&gt;1,2,3등&lt;br&gt;학교 출력" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="250" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-19" target="tMGGYB5LBeARhkWClXSp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-19" target="tMGGYB5LBeARhkWClXSp-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-19" value="학교 경쟁&lt;br&gt;참여하기 버튼이&lt;br&gt;눌렸다면" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="145" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-21" target="tMGGYB5LBeARhkWClXSp-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-21" value="나의 경쟁기록&amp;nbsp;&lt;br&gt;버튼이 눌렸다면" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-23" target="tMGGYB5LBeARhkWClXSp-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-23" value="학교 랭킹보기&amp;nbsp;&lt;br&gt;버튼이 눌렸다면" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-28" target="tMGGYB5LBeARhkWClXSp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-28" value="퀴즈 풀기 &lt;br&gt;버튼이 눌렸다면" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="514.5" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="tMGGYB5LBeARhkWClXSp-33" target="tMGGYB5LBeARhkWClXSp-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-33" value="학교 경쟁&lt;br&gt;설명 페이지&amp;nbsp;&lt;br&gt;출력" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMGGYB5LBeARhkWClXSp-37" value="참여하기 &lt;br&gt;버튼이 눌렸다면" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#000000;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="140" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
